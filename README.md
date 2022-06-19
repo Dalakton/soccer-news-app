@@ -3,7 +3,7 @@ App Nativo Android de Notícias Sobre Futebol Feminino (Mês da Mulher). Este re
 algumas branches que representam as implementações realizadas durante os seguintes conteúdos/vídeos:
 
 1. Android Jetpack e Material Design: Criando Apps Nativos Poderosos.
-   - [release/desenvolvimento-mobile-nativo-para-android](https://github.com/Dalakton/soccer-news-app/tree/release/desenvolvimento-mobile-nativo-para-android)
+   - [release/android-jetpack-material-design-criando-apps-nativos-poderosos](https://github.com/Dalakton/soccer-news-app/tree/release/android-jetpack-material-design-criando-apps-nativos-poderosos)
 
 
 
