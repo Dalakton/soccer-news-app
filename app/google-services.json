@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496393741260",
+    "project_id": "news-soccer",
+    "storage_bucket": "news-soccer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496393741260:android:fea4a2bd934a1d961cf369",
+        "android_client_info": {
+          "package_name": "me.project.soccernews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496393741260-e52oosn77ecei38lbgmbfegiu9ns7csu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXFCafpSZTB6rgZFovUwshxrrOaOQObUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496393741260-e52oosn77ecei38lbgmbfegiu9ns7csu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,5 +1,8 @@
 plugins {
     id 'com.android.application'
+    id 'com.google.gms.google-services'
+    id 'com.google.firebase.crashlytics'
+
 }
 
 android {
@@ -49,6 +52,10 @@ dependencies {
     implementation "androidx.room:room-runtime:2.4.2"
     implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
     annotationProcessor "androidx.room:room-compiler:2.4.2"
+    //Reference : https://firebase.google.com/docs/analytics?authuser=0&hl=pt
+    implementation platform('com.google.firebase:firebase-bom:30.1.0')
+    implementation 'com.google.firebase:firebase-analytics'
+    implementation 'com.google.firebase:firebase-crashlytics'
 
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
